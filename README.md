@@ -12,7 +12,7 @@
 
 ### Connect with me:
 [<img align="left" alt="Joeypph | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Joeypph | Instagram" width="32px" src="https://fontawesome.com/icons/instagram" />][instagram]
+[<img align="left" alt="Joeypph | Instagram" width="32px" src="https://iconmonstr.com/instagram-1-svg/" />][instagram]
 
  <br/>
   <br/>
