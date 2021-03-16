@@ -13,11 +13,7 @@
 ### Connect with me:
 [<img align="left" alt="Joeypph | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Joeypph | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
- <br/>
-  <br/>
-  ### Spotify Playing 🎧
 
-[<img src="https://spotifyjoey-2btkjdmy7-joeypph.vercel.app" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/axd4zltaczdyqcluov1tq667b)
  <br/>
   <br/>
  ### Languages and Tools:
@@ -40,7 +36,8 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
  <br/>
   <br/>
-  [![Joeypph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joeypph)](https://github.com/Joeypph/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joeypph)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [instagram]: https://www.instagram.com/joeypph/?hl=es-la
