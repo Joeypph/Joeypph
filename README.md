@@ -16,8 +16,9 @@
 
  <br/>
   <br/>
- ### Languages and Tools:
 
+
+### Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -36,7 +37,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
  <br/>
   <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joeypph)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="left" alt="Joeypph" src="https://github-readme-stats.codestackr.vercel.app/api?username=Joeypph&show_icons=true&hide_border=true" />
 
 
 
