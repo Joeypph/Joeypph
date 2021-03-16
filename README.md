@@ -17,7 +17,7 @@
   <br/>
   ### Spotify Playing 🎧
 
-[<img src="joeypph-git-master-joeypph.vercel.app" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/axd4zltaczdyqcluov1tq667b)
+[<img src="https://spotifyjoey-2btkjdmy7-joeypph.vercel.app" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/axd4zltaczdyqcluov1tq667b)
  <br/>
   <br/>
  ### Languages and Tools:
