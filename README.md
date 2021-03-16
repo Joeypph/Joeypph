@@ -37,7 +37,8 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
  <br/>
   <br/>
-  <img align="left" alt="Joeypph" src="https://github-readme-stats.codestackr.vercel.app/api?username=Joeypph&show_icons=true&hide_border=true&count_private=true" />
+
+  <img align="left" alt="Joeypph" src="https://github-readme-stats.codestackr.vercel.app/api?username=Joeypph&show_icons=true&hide_border=true&count_private=true&Gradient" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joeypph&langs_count=8&layout=compact)
 
