@@ -38,6 +38,9 @@
  <br/>
   <br/>
   <img align="left" alt="Joeypph" src="https://github-readme-stats.codestackr.vercel.app/api?username=Joeypph&show_icons=true&hide_border=true&count_private=true" />
+  
+    <img align="left" alt="Joeypph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joeypph" />
+
 
 
 
