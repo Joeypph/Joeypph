@@ -40,6 +40,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
  <br/>
   <br/>
+  [![Joeypph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joeypph)](https://github.com/Joeypph/github-readme-stats)
 
 
 [instagram]: https://www.instagram.com/joeypph/?hl=es-la
