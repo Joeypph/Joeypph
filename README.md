@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ... React Course
 - 🌱 I’m currently learning ...React
-- 👯 I’m looking to collaborate on ... Front-end projects!
+- 👯 I’m looking to collaborate on ... Front-end and Back-end projects!
 - 💬 Ask me about ...Anything
 - 🥅 2021 Goals: Create my own  and my parents business websites
 - ⚡ Fun fact: ... I can talk like Mickey Mouse :mouse:
