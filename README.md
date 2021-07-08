@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on ... React Course
+- 🔭 I’m currently working at Cajanauta.com
 - 🌱 I’m currently learning ...React
 - 👯 I’m looking to collaborate on ... Front-end and Back-end projects!
 - 💬 Ask me about ...Anything
