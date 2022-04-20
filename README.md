@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning ...React
 - 👯 I’m looking to collaborate on ... Front-end and Back-end projects!
-- 💬 Ask me about ...Anything
 - ⚡ Fun fact: ... I can talk like Mickey Mouse :mouse:
 
 ### Connect with me:
