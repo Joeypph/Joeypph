@@ -35,8 +35,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joeypph&langs_count=8&layout=compact)
 
-<img align="left" alt="Joeyph´s Github Stats" src="https://github-readme-stats.vercel.app/apiusername=Joeypph&show_icons=true&hide_border=true">
-
 ![Joeypph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joeypph&hide=contribs,prs)
 
 
