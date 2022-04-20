@@ -35,6 +35,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joeypph&langs_count=8&layout=compact)
 
+<img alt="Joeyph´s Github Stats" src="https://github-readme-stats.vercel.app/apiusername=Joeypph&show_icons=true&hide_border=true">
+
 
 
 [instagram]: https://www.instagram.com/joeypph/?hl=es-la
