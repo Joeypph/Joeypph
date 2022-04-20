@@ -1,13 +1,9 @@
 ### Here is what I´m working on! 👋
 
 
-
-
-- 🔭 I’m currently working at Cajanauta.com
 - 🌱 I’m currently learning ...React
 - 👯 I’m looking to collaborate on ... Front-end and Back-end projects!
 - 💬 Ask me about ...Anything
-- 🥅 2021 Goals: Create my own  and my parents business websites
 - ⚡ Fun fact: ... I can talk like Mickey Mouse :mouse:
 
 ### Connect with me:
