@@ -42,5 +42,5 @@
 
 
 
-[instagram]: https://www.instagram.com/joeypph/?hl=es-la
+[instagram]: https://www.instagram.com/josel0m3
 [linkedin]: https://www.linkedin.com/in/jose-lome/
