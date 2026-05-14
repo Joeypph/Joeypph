@@ -43,4 +43,4 @@
 
 
 [instagram]: https://www.instagram.com/joeypph/?hl=es-la
-[linkedin]: https://www.linkedin.com/in/jose-antonio-lome/
+[linkedin]: https://www.linkedin.com/in/jose-lome/
